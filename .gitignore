@@ -11,3 +11,9 @@ build/
 *.iml
 .flutter-plugins-dependencies
 apartment-anpr-app/
+.dart_tool/
+build/
+.idea/
+*.iml
+.flutter-plugins-dependencies
+apartment-anpr-app/
